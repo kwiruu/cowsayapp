@@ -1,0 +1,14 @@
+C:\Users\keiru\Documents\saib\cowsayapp\cowsayapp\bin\Debug\net8.0\cowsayapp.exe
+C:\Users\keiru\Documents\saib\cowsayapp\cowsayapp\bin\Debug\net8.0\cowsayapp.deps.json
+C:\Users\keiru\Documents\saib\cowsayapp\cowsayapp\bin\Debug\net8.0\cowsayapp.runtimeconfig.json
+C:\Users\keiru\Documents\saib\cowsayapp\cowsayapp\bin\Debug\net8.0\cowsayapp.dll
+C:\Users\keiru\Documents\saib\cowsayapp\cowsayapp\bin\Debug\net8.0\cowsayapp.pdb
+C:\Users\keiru\Documents\saib\cowsayapp\cowsayapp\obj\Debug\net8.0\cowsayapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keiru\Documents\saib\cowsayapp\cowsayapp\obj\Debug\net8.0\cowsayapp.AssemblyInfoInputs.cache
+C:\Users\keiru\Documents\saib\cowsayapp\cowsayapp\obj\Debug\net8.0\cowsayapp.AssemblyInfo.cs
+C:\Users\keiru\Documents\saib\cowsayapp\cowsayapp\obj\Debug\net8.0\cowsayapp.csproj.CoreCompileInputs.cache
+C:\Users\keiru\Documents\saib\cowsayapp\cowsayapp\obj\Debug\net8.0\cowsayapp.dll
+C:\Users\keiru\Documents\saib\cowsayapp\cowsayapp\obj\Debug\net8.0\refint\cowsayapp.dll
+C:\Users\keiru\Documents\saib\cowsayapp\cowsayapp\obj\Debug\net8.0\cowsayapp.pdb
+C:\Users\keiru\Documents\saib\cowsayapp\cowsayapp\obj\Debug\net8.0\cowsayapp.genruntimeconfig.cache
+C:\Users\keiru\Documents\saib\cowsayapp\cowsayapp\obj\Debug\net8.0\ref\cowsayapp.dll
