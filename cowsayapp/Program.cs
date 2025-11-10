@@ -2,20 +2,25 @@
 {
     static void Main(string[] args)
     {
-        string message = args.Length > 0
-            ? string.Join(" ", args)
-            : "Cowsay";
+        string cowType = "default";
+        List<string> messageParts = new List<string>();
 
-        string cowType = args.Length > 1 ? args[1].ToLower() : "default";
+        for (int i = 0; i < args.Length; i++)
+        {
+            if (args[i] == "--type" && i + 1 < args.Length)
+            {
+                cowType = args[i + 1].ToLower();
+                i++;
+            }
+            else
+            {
+                messageParts.Add(args[i]);
+            }
+        }
 
+        string message = messageParts.Count > 0 ? string.Join(" ", messageParts) : "Cowsay";
         PrintBox(message);
         PrintCow(cowType);
-    }
-
-    static string Prompt(string text)
-    {
-        Console.Write(text + ": ");
-        return Console.ReadLine();
     }
 
     static void PrintBox(string text)

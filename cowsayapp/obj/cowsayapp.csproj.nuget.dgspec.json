@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\keiru\\Documents\\saib\\cowsayapp\\cowsayapp\\cowsayapp.csproj": {}
+    "/home/kwiruu/consoleapps/cowsayapp/cowsayapp/cowsayapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\keiru\\Documents\\saib\\cowsayapp\\cowsayapp\\cowsayapp.csproj": {
+    "/home/kwiruu/consoleapps/cowsayapp/cowsayapp/cowsayapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keiru\\Documents\\saib\\cowsayapp\\cowsayapp\\cowsayapp.csproj",
+        "projectUniqueName": "/home/kwiruu/consoleapps/cowsayapp/cowsayapp/cowsayapp.csproj",
         "projectName": "cowsayapp",
-        "projectPath": "C:\\Users\\keiru\\Documents\\saib\\cowsayapp\\cowsayapp\\cowsayapp.csproj",
-        "packagesPath": "C:\\Users\\keiru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keiru\\Documents\\saib\\cowsayapp\\cowsayapp\\obj\\",
+        "projectPath": "/home/kwiruu/consoleapps/cowsayapp/cowsayapp/cowsayapp.csproj",
+        "packagesPath": "/home/kwiruu/.nuget/packages/",
+        "outputPath": "/home/kwiruu/consoleapps/cowsayapp/cowsayapp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\keiru\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/kwiruu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -37,11 +37,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/kwiruu/.local/bin/dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
